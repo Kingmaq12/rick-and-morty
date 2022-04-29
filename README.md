@@ -1,6 +1,6 @@
-# Customer Tools Front End Audit
+# Rick and Morty MF
 
-> Customer Tools Front End Audit
+> Rick and Morty MicrofrontEnd
 
 - **[React](https://facebook.github.io/react/)** (16.x)
 - **[Webpack](https://webpack.js.org/)** (4.x)
