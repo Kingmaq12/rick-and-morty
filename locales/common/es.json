@@ -1,0 +1,8 @@
+{
+    "name": "Rick and Morty ¡Más Buscados!",
+    "character": {
+        "name": "Nombre",
+        "status": "Estado",
+        "species": "Especie"
+    }
+}
